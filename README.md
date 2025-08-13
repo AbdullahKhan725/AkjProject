@@ -1,2 +1,3 @@
 # AkjProject
-its my first github project . Just checking how things are going
+its my first github project.
+Lets see how far we can go 
